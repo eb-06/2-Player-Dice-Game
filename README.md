@@ -12,3 +12,4 @@
   * If both players again end up with equal amount of points in the re-roll, they both roll the dice again until one person gets the greater number and is appointed winner.
   
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualㅤStudioㅤCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
