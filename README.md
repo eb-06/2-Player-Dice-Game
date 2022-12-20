@@ -10,5 +10,5 @@
 * At the end of the game, the player with the most points win.
   * If both players end up with equal amount of points they both roll the dice once and whoever the gets the highest number within that roll wins.
   * If both players again end up with equal amount of points in the re-roll, they both roll the dice again until one person gets the greater number and is appointed winner.
-
+  
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
